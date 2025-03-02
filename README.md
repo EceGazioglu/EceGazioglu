@@ -7,4 +7,6 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong passion for SQL, 
 - 🔗 My [Kaggle page](https://www.kaggle.com/ecegazioglu/code)
 - 📊 My [Tableau dashboards](https://public.tableau.com/app/profile/ece4682/vizzes)
 
-
+<!--
+[![Ece's GitHub stats](https://github-readme-stats.vercel.app/api?username=EceGazioglu)](https://github.com/EceGAzioglu/github-readme-stats)
+-->
